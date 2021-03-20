@@ -1,0 +1,15 @@
+{
+	"title" : "Kinect WaterFall",
+	"window" : {
+		"fps" : 60,
+		"width" : 1920,
+		"height" : 1080,
+		"displayRes" : 4,
+		"x" : 0,
+		"y" : 0
+	},
+	"app":{
+		"resolution" : 8
+	}
+
+}
